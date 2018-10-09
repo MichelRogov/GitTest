@@ -29,8 +29,8 @@ public class App {
 
 
         byte [] arr = new byte[2];
-        arr[0] = 2;
-        arr[1] = 3;
+        arr[0] = 22;
+        arr[1] = 33;
 
         byte [] arr2 = new byte[2];
         arr[0] = 1;
