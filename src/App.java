@@ -28,13 +28,13 @@ public class App {
         System.out.println(hMap.get(st12));
 
 
-//        byte [] arr = new byte[2];
-//        arr[0] = 1;
-//        arr[1] = 2;
-//
-//        byte [] arr2 = new byte[2];
-//        arr[0] = 1;
-//        arr[1] = 2;
+        byte [] arr = new byte[2];
+        arr[0] = 1;
+        arr[1] = 2;
+
+        byte [] arr2 = new byte[2];
+        arr[0] = 1;
+        arr[1] = 2;
 //
 //        HashMap<String, Integer> map = new HashMap<>();
 //
